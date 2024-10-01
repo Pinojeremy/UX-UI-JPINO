@@ -1,0 +1,39 @@
+ /*this is a comment*/
+ .inline-block{
+    display: inline-block;
+    padding: 15px;
+    width: 150px;
+    background-color:white;
+    text-align: center;
+}
+.header{
+   background-color: grey;
+   padding: 5px;
+}
+.left {
+    float: left;
+    width: 30%;
+    background-color: #333333;
+    height: 500px;
+  }
+  .right {
+    float: left;
+    width: 70%;
+    background-color: #CCCCCC;
+    height: 500px;
+  }
+  .container1 {
+    text-align: center;
+    padding: 15px;
+  }
+  .container2 {
+    background-color: #999999;
+    padding: 15px;
+  }
+  .imageplaceholder {
+    /*max-width: 100px;
+    max-height: 250px;*/
+    height: 250px;
+    background-color: #666666;
+  }
+  
